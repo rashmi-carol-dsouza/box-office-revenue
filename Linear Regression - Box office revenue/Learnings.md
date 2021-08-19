@@ -1,4 +1,4 @@
-## Formulate Question
+# Formulate Question
 
 Question - How much revenue will our movie make?
 Question - Can we use movie budgets to predict movie revenue?
